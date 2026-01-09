@@ -1,4 +1,4 @@
-🌡 Smart Climate Temperature Prediction System
+🌡 Smart Climate Temperature Prediction System Using Machine Learning
 
 A professional, end-to-end Machine Learning web application that predicts ambient temperature using environmental and sensor data.
 The system demonstrates the complete ML lifecycle — from data processing and model training to real-time inference via a clean Flask-based web interface.
