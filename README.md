@@ -1,6 +1,6 @@
 <div align="center">
 
-<h1>🌡️ Ambient Temperature Prediction</h1>
+<h1>🌡️ Time Series and Regression Analysis for Ambient Temperature Prediction Using Machine Learning</h1>
 <h3>Time-Series & Regression Analysis Using Machine Learning</h3>
 
 <p>
