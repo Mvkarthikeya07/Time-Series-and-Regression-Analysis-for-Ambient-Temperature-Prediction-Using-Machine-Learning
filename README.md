@@ -287,6 +287,8 @@ This project was developed as part of an industry ML internship, applying concep
 - Deployment-oriented thinking with Flask and Joblib
 - Version-controlled, reproducible ML code
 
+🔗 **Certificate:** [View on LinkedIn](https://www.linkedin.com/posts/m-v-karthikeya-b26a2131b_machinelearning-artificialintelligence-datascience-activity-7421145705332760576-aka0?utm_source=share&utm_medium=member_desktop&rcm=ACoAAFEhlw4BT-6V0rnLIZSzBIoK7YvV2QlbHLc)
+
 ---
 
 ## 👤 Author
